@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Animated Interfacing</title>
-    <link>https://chapter-02-03.hugoinaction.com/tags/</link>
+    <link>https://tomswan.github.io/animated-interfacing.io/tags/</link>
     <description>Recent content in Tags on Animated Interfacing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
-    <webMaster>contact@example.org (Acme Corporation)</webMaster><atom:link href="https://chapter-02-03.hugoinaction.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>contact@example.org (Acme Corporation)</webMaster><atom:link href="https://tomswan.github.io/animated-interfacing.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
